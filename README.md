@@ -6,7 +6,7 @@ This project is one of the Algoritma Academy Data Analytics Specialization's Cap
 
 The packages required in this project is provided in `requirements.txt` file.
 
-## Steps Taken in this Project
+## Steps Taken in This Project
 
 1. Create a function to obtain `Title`, `IMDB Rating`, `Metascore`, and `Votes` from a single IMDB website page.
 2. Using iteration to obtain 1.000 movies' data from different pages.
