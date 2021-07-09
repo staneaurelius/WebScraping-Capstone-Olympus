@@ -13,3 +13,6 @@ The packages required in this project are provided in `requirements.txt` file.
 3. Transform the obtained data into Pandas dataframe and data cleaning.
 4. Perform analysis and visualization on the data.
 5. Create a simple Flask dashboard based on the analysis result.
+
+## Result Preview
+![page1](/Results/Page1.png)
