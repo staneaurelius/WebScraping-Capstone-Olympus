@@ -9,7 +9,7 @@ The packages required in this project is provided in `requirements.txt` file.
 ## Steps Taken in This Project
 
 1. Create a function to obtain `Title`, `IMDB Rating`, `Metascore`, and `Votes` from a single IMDB website page.
-2. Using iteration to obtain 1.000 movies' data from different pages.
+2. Using iteration to obtain 1.000 movies' data from multiple pages.
 3. Transform the obtained data into Pandas dataframe and data cleaning.
 4. Perform analysis and visualization on the data.
 5. Create a simple Flask dashboard based on the analysis result.
