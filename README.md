@@ -4,7 +4,7 @@ This project is one of the Algoritma Academy Data Analytics Specialization's Cap
 
 ## Dependencies
 
-The packages required in this project is provided in `requirements.txt` file.
+The packages required in this project are provided in `requirements.txt` file.
 
 ## Steps Taken in This Project
 
